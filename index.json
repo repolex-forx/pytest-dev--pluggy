@@ -1,0 +1,11 @@
+{
+  "org": "pytest-dev",
+  "repo": "pluggy",
+  "versions": [
+    {
+      "commit": "87f130aa18d8fdf9c92585e72423eca7f3de727d",
+      "tag": "",
+      "parsed_at": "2026-10-11T02:10:39.845413+00:00"
+    }
+  ]
+}
